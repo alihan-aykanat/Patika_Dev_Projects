@@ -7,4 +7,6 @@ This repo includes projects and homeworks in Patika.dev platform.
 2. Merge Sort
 3. Binary Search Tree
 -----
-
+## Python Basics
+1. Flatten 
+2. 
