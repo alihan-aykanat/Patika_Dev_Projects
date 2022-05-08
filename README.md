@@ -8,5 +8,9 @@ This repo includes projects and homeworks in Patika.dev platform.
 3. Binary Search Tree
 -----
 ## Python Basics
-1. Flatten 
-2. 
+1. Flatten Function
+2. Reverse Nested List Function
+------
+
+
+
